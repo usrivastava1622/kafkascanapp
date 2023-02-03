@@ -1,0 +1,8 @@
+net\sinec\springboot\RedisService\DeviceRedisRepository.class
+net\sinec\springboot\KafkaProcessor.class
+net\sinec\springboot\DeviceList.class
+net\sinec\springboot\DeviceService.class
+net\sinec\springboot\Config.class
+net\sinec\springboot\KafkaRecordHandler.class
+net\sinec\springboot\DeviceRepository.class
+net\sinec\springboot\SpringBootConsumerApplication.class
